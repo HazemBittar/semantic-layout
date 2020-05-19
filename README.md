@@ -37,3 +37,8 @@ This is a simple web-site who developed with HTML/CSS, git branches and developm
 
         ***Made all these steps on separate branch `4-references`. After finish merge branch `4-references` with `master`. Divide each step on separate commit.***
 
+5. **Finishing Touches**
+
+    - Write final, complete README
+    - Validate code to check for any last mistakes
+    - Push `master` to github for publishing your site
