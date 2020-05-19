@@ -37,16 +37,15 @@ article {
 }
 
 aside {
-  width: 44%;
+  width: 46%;
   padding: 10px;
-  padding-bottom: 120px;
+  padding-bottom: 103px;
   background-color: blueviolet;
   border-left: 10px double gainsboro;
   color: white;
   position: absolute;
-  top: 217px;
+  top: 235px;
   right: 5px;
-  
 }
 
 a {
