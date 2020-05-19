@@ -1,16 +1,17 @@
 # Development Strategy
 
-> `name-of-project`
+> `Semantic-layout`
 
 write a short description of your project:
-- who would want to use it?
-- why would they want to use it?
+
+- This project is a simple little website developing with git branches and incremental development.
+- This project would interest for novice students of web-development because there is example of applying git branches and incremental development.
 
 ## Wireframe
 
 <!-- include a wireframe for your project in this repository, and display it here -->
 <!-- wireframe.cc is a good site for getting started with wireframes -->
-![wireframe]()
+![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
