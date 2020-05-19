@@ -2,8 +2,6 @@
 
 > `Semantic-layout`
 
-write a short description of your project:
-
 - This project is a simple little website developing with git branches and incremental development.
 - This project would interest for novice students of web-development because there is example of applying git branches and incremental development.
 
@@ -52,8 +50,9 @@ It was merged to `master` when the feature was finished.
 ### HTML
 Add some `section` element and some nice text in the section introducing users to this web page
 
-### CSS
+### CSS 
 Styling for the new element
+
 ---
 
 ## 3.User Story: main text
@@ -69,6 +68,7 @@ something cool that everyone needs to know
 
 ### CSS
 Styling for the new element
+
 ---
 
 ## 4. User Story: references
@@ -84,14 +84,11 @@ some links for people to learn more about the cool thing
 
 ### CSS
 Styling for the new element
+
 ---
 
+## 5. Finishing Touches
 
-
-## Finishing Touches
-
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
+- Write final, complete README
 - Validate code to check for any last mistakes
+- Push `master` to github for publishing your site
