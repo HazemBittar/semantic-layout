@@ -1,49 +1,67 @@
 header {
-    border-bottom: 5px double blueviolet;
-    background-color: darkcyan;
-    font-size: large;
-  }
+  border-bottom: 10px double MediumPurple;
+  background-color: darkcyan;
+  font-size: large;
+  text-align: center;
+  color: white;
+  padding: 15px;
+  margin-bottom: 10px;
+}
 
-  footer {
-    border-top: 5px double blueviolet;
-    background-color: darkcyan;
-  }
-
-  .blocks {
-    background-color: darkcyan;
-    border-top: 10px white;
-    box-shadow: 5px 10px #888888;
-  }
-
-  .navigation:hover {
-      color: blueviolet;
-  }
-
-  .welcome {
-    background-color: gainsboro;
-    border-bottom: 5px double blueviolet;
-    padding: 5px;
-    width: 50%;
-  }
-
-  article {
-    background-color: gainsboro;
-    border-bottom: 5px double darkcyan;
-    padding: 5px;
-    width: 50%;
-  }
-
-  aside {
-    width: 50%;
-    float: right;
-    padding: 10px;
-    background-color: blueviolet;
-    border-left: 5px double white;
-  }
-
+.blocks {
+  background-color: darkcyan;
+  border-top: 10px white;
+  box-shadow: 5px 5px gainsboro;
+  padding: 5px;
+  color: white;
+  margin-bottom: 10px;
+  word-spacing: 25px;
   
+}
 
+.welcome {
+  background-color: gainsboro;
+  border-bottom: 5px double blueviolet;
+  padding: 5px;
+  width: 50%;
+  margin-bottom: 5px;
+}
+
+article {
+  background-color: gainsboro;
+  border-bottom: 5px double blueviolet;
+  padding: 5px;
+  width: 50%;
+  margin-bottom: 10px;
   
+}
 
+aside {
+  width: 44%;
+  padding: 10px;
+  padding-bottom: 120px;
+  background-color: blueviolet;
+  border-left: 10px double gainsboro;
+  color: white;
+  position: absolute;
+  top: 217px;
+  right: 5px;
   
+}
 
+a {
+color: white;
+}
+
+a:hover {
+color: blue;
+}
+
+footer {
+  background-color: darkcyan;
+  box-shadow: 5px 5px gainsboro;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  font-size: large;
+}
