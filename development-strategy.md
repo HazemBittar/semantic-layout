@@ -40,11 +40,20 @@ __full user story description__
 - Layout styling for the header & footer
 - Text styling for the header & footer
 
-## 2. ...
+## 2. User Story: introduction
+As a site visitor, I want to read an introduction to this web page
 
-...
+### Branches
+This user story was developed on a brach called `2-introduction`
+It was merged to `master` when the feature was finished.
 
-...
+### HTML
+Add some `section` element and some nice text in the section introducing users to this web page
+
+### CSS
+Styling for the new element
+
+
 
 ## Finishing Touches
 

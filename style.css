@@ -8,3 +8,23 @@ header {
     border-top: 5px double blueviolet;
     background-color: darkcyan;
   }
+
+  .blocks {
+    background-color: darkcyan;
+    border-top: 10px white;
+    box-shadow: 5px 10px #888888;
+  }
+
+  .navigation:hover {
+      color: blueviolet;
+  }
+
+  .welcome {
+    background-color: gainsboro;
+    border-bottom: 5px double blueviolet;
+    padding: 5px;
+    width: 50%;
+  }
+
+  
+
