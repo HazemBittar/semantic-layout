@@ -1,0 +1,10 @@
+header {
+    border-bottom: 5px double blueviolet;
+    background-color: darkcyan;
+    font-size: large;
+  }
+
+  footer {
+    border-top: 5px double blueviolet;
+    background-color: darkcyan;
+  }

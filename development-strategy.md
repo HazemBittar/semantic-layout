@@ -23,21 +23,22 @@ __A User can see my initial repository and live demo__
 - Write initial, basic README
 - Turn on GitHub Pages
 
-## 1. __
+## 1. User story: title
 
 __full user story description__
 
-### Repo
+### Branches
 
-what branch(es) did you work on?
+- This user story was developed on a brach called `1-title`
+- It was merged to `master` when the feature was finished.
 
 ### HTML
-
-what did you change in the HTML and why?
+- A header element with a title describing the web page
+- A pleasant footer
 
 ### CSS
-
-what did you change in the CSS and why?
+- Layout styling for the header & footer
+- Text styling for the header & footer
 
 ## 2. ...
 
