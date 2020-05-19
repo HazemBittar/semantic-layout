@@ -53,6 +53,20 @@ Add some `section` element and some nice text in the section introducing users t
 ### CSS
 Styling for the new element
 
+## 3.User Story: main text
+As a site visitor, I want to learn about something cool
+
+### Branches
+This user story was developed on a brach called `3-main-text`
+It was merged to `master` when the feature was finished.
+
+### HTML
+article and aside element
+something cool that everyone needs to know
+
+### CSS
+Styling for the new element
+
 
 
 ## Finishing Touches
