@@ -22,6 +22,7 @@ __A User can see my initial repository and live demo__
 - Generate from Template
 - Write initial, basic README
 - Turn on GitHub Pages
+---
 
 ## 1. User story: title
 
@@ -39,6 +40,7 @@ __full user story description__
 ### CSS
 - Layout styling for the header & footer
 - Text styling for the header & footer
+---
 
 ## 2. User Story: introduction
 As a site visitor, I want to read an introduction to this web page
@@ -52,6 +54,7 @@ Add some `section` element and some nice text in the section introducing users t
 
 ### CSS
 Styling for the new element
+---
 
 ## 3.User Story: main text
 As a site visitor, I want to learn about something cool
@@ -66,6 +69,22 @@ something cool that everyone needs to know
 
 ### CSS
 Styling for the new element
+---
+
+## 4. User Story: references
+As a site visitor, I want to know where I can learn more
+
+### Branches
+This user story was developed on a brach called `4-references`
+It was merged to `master` when the feature was finished.
+
+### HTML
+aside element
+some links for people to learn more about the cool thing
+
+### CSS
+Styling for the new element
+---
 
 
 

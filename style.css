@@ -33,6 +33,16 @@ header {
     width: 50%;
   }
 
+  aside {
+    width: 50%;
+    float: right;
+    padding: 10px;
+    background-color: blueviolet;
+    border-left: 5px double white;
+  }
+
+  
+
   
 
   
