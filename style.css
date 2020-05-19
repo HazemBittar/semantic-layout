@@ -26,5 +26,14 @@ header {
     width: 50%;
   }
 
+  article {
+    background-color: gainsboro;
+    border-bottom: 5px double darkcyan;
+    padding: 5px;
+    width: 50%;
+  }
+
+  
+
   
 
